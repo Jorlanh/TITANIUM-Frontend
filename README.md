@@ -33,7 +33,7 @@ O **TITANIUM Frontend** não é apenas uma interface; é uma aplicação SPA (Si
 
 ### Diferenciais Competitivos
 * **Zero-Lag UI:** Implementação agressiva de *Optimistic Updates* e *Caching* inteligente para sensação de instantaneidade.
-* **IA Nativa:** Integração profunda com modelos de linguagem e visão computacional (Gemini/GPT) para automação de tarefas cognitivas (Anamnese e Marketing).
+* **IA Nativa:** Integração profunda com modelos de linguagem e visão computacional para automação de tarefas cognitivas (Anamnese e Marketing).
 * **Fluxo de Trabalho Guiado:** O sistema não espera o usuário clicar; ele sugere a próxima ação (Ex: Ao finalizar consulta, sugere automaticamente o NPS e o Agendamento de Retorno).
 
 ---
